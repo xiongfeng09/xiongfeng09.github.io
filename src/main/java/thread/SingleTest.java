@@ -21,7 +21,7 @@ public class SingleTest {
 	}
 }
 
-class SingleStaicTest {
+class SingleStaticTest {
 	public static Singleton getSingle() {
 		return Hoder.s;
 	}
@@ -39,6 +39,6 @@ class SingleStaicTest {
 class Singleton {
 	public static void main(String[] s) {
 		(new SingleTest()).getSingle();
-		SingleStaicTest.getSingle();
+		SingleStaticTest.getSingle();
 	}
 }
