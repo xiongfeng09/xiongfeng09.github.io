@@ -1,0 +1,10 @@
+_site/
+_drafts/
+.DS_Store
+.idea/
+_site/
+target/
+project/target/config-classes
+outline/
+_posts/drafts
+

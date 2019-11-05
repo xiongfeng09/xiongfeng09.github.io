@@ -1,0 +1,38 @@
+body {
+  background-color: #f4f6f8;
+}
+img { max-width: 100%;}
+
+.blog-main {
+  background: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, .1);
+  padding-bottom: 15px;
+}
+
+.avatar {
+  border-radius: 6px;
+  height: 230px;
+  width: 230px;
+}
+
+#goToTop{
+
+  display:block;
+  width:40px;
+  height:40px;
+  position:fixed;
+  bottom:10px;
+  right:10px;
+  border-radius:10px 10px 10px 10px;
+  text-decoration:none;
+  display:none;
+}
+
+#goToTop span{
+  display:block;
+  color:#dddddd;
+}
+
+#goToTop span:hover{
+  color:#cccccc;
+}

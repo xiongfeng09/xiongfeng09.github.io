@@ -1,0 +1,24 @@
+# Site settings
+title: Xiong Feng's Personal Site
+name: Xiong Feng's Personal Site
+url: "http://xiongfeng.info"
+email: xiongfeng165@gmail.com
+description: Xiong Feng's Personal Site | xiongfeng.info.
+baseurl: "" # the subpath of your site, e.g. /blog/
+#twitter_username: waylau521
+github_username:  xiongfeng165
+weibo_username: 一米阳光Just_
+#facebook_username: waylau521
+duoshuo_username: jolin
+baidushare_id: 89860593
+baidutongji_id: d6cd03a958f8d0bc11d8a7c446181d2e
+rss_url: "/rss.xml"
+logo_image: "/images/logo.png"
+# Build settings
+highlighter: rouge
+markdown: kramdown
+permalink: /:title/
+paginate: 6
+paginate_path: page/:num
+# image
+favicon: https://avatars0.githubusercontent.com/u/6395517?v=3&s=460
